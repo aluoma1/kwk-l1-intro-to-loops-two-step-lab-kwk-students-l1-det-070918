@@ -1,2 +1,4 @@
 group_names = ["Annelise", "Grace", "De'Kyra"]
-puts group_names
+  group_names << "Rihanna"
+  puts group_names
+  
